@@ -1,10 +1,11 @@
 ---
-title: Understanding the Singleton Design Pattern
+title: Singleton Design Pattern
 tags: DP, Java
 article_header:
   type: cover
   image:
-    src: /Singleton.png
+    src: /Singleton.png 
+key: 20230930
 ---
 
 

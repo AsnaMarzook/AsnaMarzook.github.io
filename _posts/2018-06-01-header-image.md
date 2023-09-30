@@ -5,6 +5,7 @@ article_header:
   type: cover
   image:
     src: /Singleton.png
+key: 20180601
 ---
 
 
