@@ -1,5 +1,5 @@
 ---
-title: Singleton Design Pattern
+title: Understanding the Singleton Design Pattern
 tags: DP, Java
 article_header:
   type: cover
