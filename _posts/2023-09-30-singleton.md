@@ -1,6 +1,6 @@
 ---
 title: Understanding the Singleton Design Pattern
-tags: DP, Java
+tags: Java SDP
 article_header:
   type: cover
   image:
@@ -60,7 +60,9 @@ private static final Singleton instance = new Singleton();
 ```
 This guarantees that the instance is created eagerly and is thread-safe.
 
+
 2. Use of synchronized: Use synchronized blocks to ensure that only one thread can access the creation part of the getInstance() method at a time. However, this can introduce performance overhead.
+
 
 3. Double-Checked Locking: Use double-checked locking to minimize the use of synchronized blocks. This is achieved by checking the instance for null and then synchronizing only if necessary.
 
